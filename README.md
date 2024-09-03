@@ -1,1 +1,1 @@
-# Text_Summary_Model
+A model that can summarise text based on the input in the form of a pdf document.The model is built primarily using the langchain python library and utilizes both axtractive as well as abstractive methods for the summarisation process.
